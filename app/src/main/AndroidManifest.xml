@@ -3,6 +3,7 @@
     package="com.benrostudios.xpenso">
 
     <application
+        android:name=".XpensoApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
